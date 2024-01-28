@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Tutorial 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Individual Submission** 
 
-## Available Scripts
+* *Date Created*: _27 January 2024_
+* *Last Modification Date*: _28 January 2024_
+* *Gitlab URL*: [CSCI 5709 Tutorials](https://git.cs.dal.ca/anagpal/csci-5709-tutorials)
 
-In the project directory, you can run:
 
-### `npm start`
+## Deliverables
+- *Project Link*: [CSCI 5709 Grp-13](https://git.cs.dal.ca/anagpal/csci-5709-grp-13)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- *Tutotial Link*: [CSCI 5709 Tutorials](https://git.cs.dal.ca/anagpal/csci-5709-tutorials)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- *Assignment Link*: [CSCI 5709 Assignments](https://git.cs.dal.ca/anagpal/csci-5709-assignments)
 
-### `npm test`
+- *Github Project Link*: [Adv-Web-Tutorial2](https://github.com/ashishnagpal2498/Adv-Web-Tutorial2)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- *Netlify Deployment*: [adv-web-deployment](https://adv-web-deployment.netlify.app/)
 
-### `npm run build`
+- *Repository Access Screenshot*: ![Repository acess](./public/access_ss.png)
+## Repository Branches
+| Sno.     | Name           | Branch Link  |
+| -------- |:-------------:| -----:|
+| 1.       | Ashish Nagpal | [ashish-nagpal](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/ashish-nagpal?ref_type=heads) |
+| 2.       | Arihant Dugar      |    |
+| 3.       | Abhinav Acharya Tirumala Vinjamuri      |     |
+| 4.       |  Aiwin Charalil Manuel     |     |
+| 5.       | Jinal Dave      |     |
+| 6.       | Yogish Honnadevipura Gopalakrishna      |  [yogish](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/yogish?ref_type=heads)   |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Steps Followed
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Create a sample react application using ```npx create-react-app .``` command.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Start the react application ```npm start``` and test the deployment server at [http://localhost:3000](http://localhost:3000)
 
-### `npm run eject`
+3. Perform the changes in the App.js file and push the code to github.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* [Ashish Nagpal](ashish.nagpal@dal.ca)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ac67c852-0837-4435-a880-1c19b45c3af1/deploy-status)](https://app.netlify.com/sites/adv-web-deployment/deploys)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Built With
 
-### Code Splitting
+* [Npm](https://docs.npmjs.com/getting-started) - Dependency Management
+* [Node](https://nodejs.org/docs/latest/api/) - JavaScript runtime Framework
+* [React](https://create-react-app.dev/docs/getting-started) - React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
