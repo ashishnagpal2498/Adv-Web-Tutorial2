@@ -3,8 +3,8 @@
 **Individual Submission** 
 
 * *Date Created*: _27 January 2024_
-* *Last Modification Date*: _28 January 2024_
-* *Gitlab URL*: [CSCI 5709 Tutorials](https://git.cs.dal.ca/anagpal/csci-5709-tutorials)
+* *Last Modification Date*: _29 January 2024_
+* *Gitlab URL*: [CSCI 5709 Tutorial 2](https://git.cs.dal.ca/anagpal/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=heads)
 
 
 ## Deliverables
@@ -23,11 +23,11 @@
 | Sno.     | Name           | Branch Link  |
 | -------- |:-------------:| -----:|
 | 1.       | Ashish Nagpal | [ashish-nagpal](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/ashish-nagpal?ref_type=heads) |
-| 2.       | Arihant Dugar      |    |
-| 3.       | Abhinav Acharya Tirumala Vinjamuri      |     |
-| 4.       |  Aiwin Charalil Manuel     |     |
-| 5.       | Jinal Dave      |     |
-| 6.       | Yogish Honnadevipura Gopalakrishna      |  [yogish](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/yogish?ref_type=heads)   |
+| 2.       | Arihant Dugar      | [arihant-dugar](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/arihant-dugar?ref_type=heads) |
+| 3.       | Abhinav Acharya Tirumala Vinjamuri      | [Abhinav_Acharya](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/Abhinav_Acharya?ref_type=heads) |
+| 4.       |  Aiwin Charalil Manuel     | [Aiwin_Charalil_Manuel](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/Aiwin_Charalil_Manuel?ref_type=heads)    |
+| 5.       | Jinal Dave      | [jinal-dave](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/jinal-dave?ref_type=heads) |
+| 6.       | Yogish Honnadevipura Gopalakrishna      | [yogish](https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/yogish?ref_type=heads)   |
 
 ## Steps Followed
 
@@ -36,6 +36,8 @@
 2. Start the react application ```npm start``` and test the deployment server at [http://localhost:3000](http://localhost:3000)
 
 3. Perform the changes in the App.js file and push the code to github.
+
+4. Connect github with Netlify for deployment
 
 
 ## Authors
